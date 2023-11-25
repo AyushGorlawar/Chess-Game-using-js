@@ -1,16 +1,26 @@
 # Chess Game using JavaScript
 
-A simple two-player chess game implemented using HTML, CSS, and JavaScript.
+Welcome to the JavaScript Chess Game by Ayush Gorlawar.
+
+## How to Play
+
+1. Clone the repository or download the ZIP file.
+2. Open the `index.html` file in your web browser.
+3. Enjoy playing the two-player chess game!
 
 ## Features
 
 - Interactive chessboard with alternating colors.
-- Click on squares to log coordinates to the console (basic interaction example).
+- Click on squares to make moves.
 - Built as a starting point for a more comprehensive chess game.
 
-## Getting Started
+## Author
 
-To run the chess game, simply open the `index.html` file in a web browser.
+- Ayush Gorlawar
+
+## Quick Start
+
+Clone the repository:
 
 ```bash
-open index.html
+git clone https://github.com/ayushgorlawar/Chess-Game-using-js.git
